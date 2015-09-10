@@ -1,3 +1,3 @@
-if(!window.hasOwnProperty("React")) {
-  window.React = React;
-}
+// if(!window.hasOwnProperty("React")) {
+//   window.React = React;
+// }
